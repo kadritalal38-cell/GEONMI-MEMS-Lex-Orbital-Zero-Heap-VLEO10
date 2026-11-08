@@ -20,6 +20,8 @@
 ---
 <img width="2048" height="1152" alt="Image" src="https://github.com/user-attachments/assets/cc55cad3-b2fb-486a-862c-57808d35768b" />
 
+Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
+
 ## 📌 Project Overview
 The **GEONMI VLEO Kernel** is an industrial-grade, ultra-high-performance simulation core implemented in modern C++. It is engineered for the real-time deterministic propagation and telemetry management of massive satellite constellations operating within Very Low Earth Orbits (VLEO). 
 
